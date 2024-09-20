@@ -10,23 +10,23 @@ import { ButtonPartner } from "./butonsPostHog/buttonPartner";
 
 const items = [
   {
-    title: "Quando a gente conecta você cresce!",
-    text: "Mais que só maquininha, somos o conjunto de soluções que seu negócio precisa para crescer.",
+    title: "A máquininha do empreendedor brasileiro!",
+    text: "Taxas sob medida para o seu Negócio. Vem pra Pay it Brasil!",
     img: img1,
   },
   {
-    title: "Conecte seu negócio ao futuro.",
-    text: "O futuro do seu negócio começa com a Pay it Brasil, de melhores Taxas a pagar menos impostos.",
+    title: "Pague menos impostos!",
+    text: "Diminua sua carga tributaria de maneira 100% legal com a Pay it Brasil!",
     img: img2,
   },
   {
-    title: "Tudo em um!",
-    text: "Todas as soluções financeiras que seu negócio precisa em um só lugar.",
+    title: "Não consegue credito no mercado?",
+    text: "Tenha seu Score restaurado e volte a ter crédito para realizar seus sonhos.",
     img: img3,
   },
   {
-    title: "De pessoas, para pessoas!",
-    text: "Quem disse que a praticidade do digital, e confiança do atendimento humano não podem andar juntas?",
+    title: "Muito Mais benefícios!",
+    text: "Para você, Sua Família e até seu amigo pet, telemedicina, descontos em medicamentos, educação, viagens e muito mais!",
     img: img4,
   },
 ];

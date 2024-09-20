@@ -22,7 +22,7 @@ export function About() {
           <div className="relative w-fit h-fit flex flex-col justify-center items-center">
             <Image
               className="rounded-tl-[150px] rounded-br-[150px] rounded-bl-lg rounded-tr-lg md:rounded-tl-[130px] md:rounded-br-[130px] lg:rounded-br-[150px] lg:rounded-tl-[150px]"
-              src="/pay-it.png"
+              src="/IMG1.png"
               alt="Pay-it"
               width={500}
               height={500}

@@ -36,17 +36,17 @@ const navItems = [
 const socialMedia = [
   {
     icon: Icons.Facebook,
-    link: "https://www.facebook.com",
+    link: "https://www.facebook.com/people/Pay-It/100078913518057/",
     namePostHog: "button_facebook",
   },
   {
     icon: Icons.Instagram,
-    link: "https://www.instagram.com",
+    link: "https://www.instagram.com/payit.brasil/",
     namePostHog: "button_instagram",
   },
   {
     icon: Icons.LinkedIn,
-    link: "https://www.linkedin.com",
+    link: "https://www.linkedin.com/company/pay-it-brasil/",
     namePostHog: "button_linkedin",
   },
   {
@@ -119,8 +119,7 @@ export function SiteFooter() {
           </div>
           <div className="hidden sm:block">
             <p>Central de Atendimento</p>
-            <p>Telefone: 0020-2000</p>
-            <p>WhatsApp: +55 11 99999-9999</p>
+            <p>WhatsApp: +55 82 8818-0409</p>
             <p>Email: atendimento@payitbrasil.com.br</p>
           </div>
         </div>

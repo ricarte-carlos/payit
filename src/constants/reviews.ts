@@ -1,42 +1,42 @@
 export const reviews = [
   {
-    title: "Belo atendimento",
+    title: "Verdadeiros parceiros",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nib. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    name: "João Carlos",
-    position: "Marketing",
-    img: "/reviewr.jpg",
+      "Encontrei parceiros comprometidos na Pay it Brasil, sempre prontos para nos apoiar com suporte e soluções inovadoras.",
+    name: "Mateus Fynna",
+    position: "CEO em iFynna",
+    img: "/Fynna.jpg",
   },
   {
-    title: "Pessoal muito atencioso",
+    title: "Máquinas da Pay it Brasil aumentaram lucro",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nib. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    name: "José Rocha",
-    position: "Diretor",
-    img: "/reviewr.jpg",
+      "As soluções da Pay it Brasil agilizaram o checkout, reduziram falhas nas transações e aumentaram as vendas.",
+    name: "Rafael Pita",
+    position: "CEO em Time Solutions",
+    img: "/pita.jpg",
   },
   {
-    title: "Ótima empresa",
+    title: "Somar forças com a Pay it Brasil, foi uma virada de chave para o meu negócio.",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nib. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    name: "Richard",
-    position: "Gerente",
-    img: "/reviewr.jpg",
+    "Recomendo a Pay it Brasil para empresas que buscam inovação e crescimento. Eles são parceiros comprometidos com o sucesso dos negócios.",
+    name: "Victor Hugo",
+    position: "Diretor de Arte em CMS",
+    img: "/victor.jpg",
   },
   {
-    title: "Atendimento espetacular",
+    title: "Recomendo a Pay it Brasil pela parceria e compromisso com o sucesso.",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nib. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    name: "Ricardo Utaka",
-    position: "Diretor",
-    img: "/reviewr.jpg",
+      "Com a Pay it Brasil, resolvemos problemas de integração e segurança. O suporte ágil e sempre disponível nos faz sentir valorizados e bem assistidos em todos os momentos.",
+    name: "Erick Prado",
+    position: "Diretor de Logistica em TransAtibaia",
+    img: "/erick1.jpg",
   },
   {
-    title: "Sensacional",
+    title: "Impressionante",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nib. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    name: "Bruno",
-    position: "CMO",
-    img: "/reviewr.jpg",
+      "A agilidade a qual eles trouxeram foi essencial para o fechamento de novos contratos e novos clientes.",
+    name: "Thacio Silva ",
+    position: "Sócio Pizzaria Hope",
+    img: "/thacito.jpg",
   },
 ];

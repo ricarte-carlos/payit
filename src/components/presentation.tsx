@@ -27,7 +27,7 @@ export function Presentation() {
           <p className="font-medium">no Brasil</p>
         </div>
       </div>
-      <Button className="rounded-full flex sm:hidden">Call to action</Button>
+      <Button className="rounded-full flex sm:hidden">Vem pra Pay! 💜🇧🇷</Button>
     </div>
   );
 }
